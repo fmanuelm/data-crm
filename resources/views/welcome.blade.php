@@ -57,7 +57,7 @@
             </button>
             <a href="https://www.datacrm.com/">
                 <picture>
-                    <source media="(min-width: 100px)" srcset="https://www.datacrm.com/front/images/Logodata_Horizontalblanco140x45.png" <source media="(min-width: 634px)" srcset="https://www.datacrm.com/front/images/Logodata_Horizontalblanco180x58.png">
+                    <source media="(min-width: 634px)" srcset="https://www.datacrm.com/front/images/Logodata_Horizontalblanco180x58.png">
                     <img src="https://www.datacrm.com/front/images/Logodata_Horizontalblanco180x582.webp" alt="DataCRM" width="60%" height="58" class="img-logo img-fluid" loading="lazy" style="margin-bottom: 10px !important;">
                 </picture>
             </a>
